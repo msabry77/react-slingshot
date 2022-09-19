@@ -120,7 +120,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/coryhouse/react-slingshot"
+    "url": "git+https://github.com/coryhouse/react-slingshot.git"
   },
   "jest": {
     "moduleNameMapper": {
@@ -197,5 +197,13 @@
       "jest": true
     },
     "globals": {}
+  },
+  "bugs": {
+    "url": "https://github.com/coryhouse/react-slingshot/issues"
+  },
+  "homepage": "https://github.com/coryhouse/react-slingshot#readme",
+  "main": "webpack.config.dev.js",
+  "directories": {
+    "doc": "docs"
   }
 }
